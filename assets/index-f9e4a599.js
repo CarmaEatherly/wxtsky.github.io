@@ -1,0 +1,1 @@
+import{h as e,j as o}from"./index-97b4f576.js";import{I as r}from"./index-37b2add3.js";import"./button-363d567d.js";import"./index-eba01287.js";import"./useMergedState-8fc71bbf.js";function s(){return e("div",{children:[o("h1",{children:"PinkSale"}),o(r,{addonBefore:"RPC"}),o(r,{addonBefore:"预售合约"}),o(r,{addonBefore:"私钥"}),o("span",{})]})}export{s as default};
